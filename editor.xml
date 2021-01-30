@@ -1,0 +1,8 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Craft Inspections" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="IBM Plex Mono" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+</application>
