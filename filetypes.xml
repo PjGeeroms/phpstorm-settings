@@ -6,6 +6,7 @@
       <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="somerandom file" type="PLAIN_TEXT" />
+      <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
