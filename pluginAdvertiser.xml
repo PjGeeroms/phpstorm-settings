@@ -1069,7 +1069,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginName" value="CSV" />
             </plugin>
           </value>
         </entry>
@@ -1221,7 +1221,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginName" value="CSV" />
             </plugin>
           </value>
         </entry>
