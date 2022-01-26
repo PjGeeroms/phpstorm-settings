@@ -17,7 +17,6 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="MIN006-563" type="SQL" />
       <mapping pattern="yellowCtaSection" type="Twig" />
-      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping pattern=".graphqlconfig" approved="true" type="JSON" />
     </extensionMap>
   </component>
