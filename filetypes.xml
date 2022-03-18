@@ -5,6 +5,7 @@
       <mapping pattern="_block_yellowCtaDescription" type="AUTO_DETECTED" />
       <mapping pattern="_mobile-sidebar-toggle" type="AUTO_DETECTED" />
       <mapping ext="styl" type="CSS" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="somerandom file" type="PLAIN_TEXT" />
