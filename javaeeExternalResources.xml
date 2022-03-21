@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/2005/Atom" location="$USER_HOME$/Sites/craft/prm-website" />
+  </component>
+</application>
