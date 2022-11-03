@@ -19,6 +19,7 @@
       <mapping pattern="MIN006-563" type="SQL" />
       <mapping pattern="yellowCtaSection" type="Twig" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".graphqlconfig" approved="true" type="JSON" />
     </extensionMap>
   </component>
